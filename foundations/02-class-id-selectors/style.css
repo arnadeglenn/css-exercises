@@ -1,0 +1,19 @@
+.text {
+background-color: #ffc0cb;
+font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+#id1 {
+    color: #0000ff;
+    font-size: 32px;
+}
+
+.text2 {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
